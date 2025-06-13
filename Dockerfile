@@ -16,7 +16,7 @@ WORKDIR /app
 COPY req.txt .
 
 # Устанавливаем зависимости
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r req.txt
 
 # Копируем остальные файлы
 COPY . .
