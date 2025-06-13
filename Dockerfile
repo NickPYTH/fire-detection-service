@@ -15,6 +15,9 @@ WORKDIR /app
 # Копируем зависимости
 COPY req.txt .
 
+# Устанавливаем OpenCV без GUI зависимостей
+RUN pip install --no-cache-dir opencv-python-headless==4.7.0.72
+
 # Устанавливаем зависимости
 RUN pip install --no-cache-dir -r req.txt
 
