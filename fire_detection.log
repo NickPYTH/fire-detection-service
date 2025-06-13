@@ -1,0 +1,987 @@
+2025-06-13 20:29:39,140 - INFO - Starting Fire Detection Service
+2025-06-13 20:29:41,384 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:29:43,412 - ERROR - Django API Error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/fire-detection/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000285E4B56E40>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-06-13 20:29:43,635 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:29:45,680 - ERROR - Django API Error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/fire-detection/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000285E4B70910>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-06-13 20:29:45,906 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:29:47,932 - INFO - Service stopped by user
+2025-06-13 20:29:47,939 - INFO - Service stopped
+2025-06-13 20:30:04,323 - INFO - Starting Fire Detection Service
+2025-06-13 20:30:06,534 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:30:07,129 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:30:07,688 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:30:08,236 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:30:08,793 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:30:09,343 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:30:09,937 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:30:10,247 - INFO - Service stopped by user
+2025-06-13 20:30:10,254 - INFO - Service stopped
+2025-06-13 20:35:44,758 - INFO - Starting Fire Detection Service
+2025-06-13 20:35:47,005 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:35:47,082 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:47,323 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:35:47,376 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:47,641 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:35:47,696 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:47,925 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:35:47,970 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:48,188 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:35:48,232 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:48,458 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:35:48,501 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:48,726 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:35:48,770 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:49,440 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:35:49,484 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:49,704 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:35:49,746 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:51,273 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:35:51,318 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:51,540 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:35:51,583 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:35:53,118 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:35:53,168 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:02,591 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:36:02,644 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:04,414 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:04,458 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:04,683 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:04,730 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:04,952 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:04,953 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:04,954 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:36:04,996 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:05,244 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:05,248 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:05,249 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:36:05,297 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:05,516 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:05,517 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:05,518 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:36:05,560 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:05,784 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:05,784 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:05,829 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:06,047 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:06,049 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:06,091 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:06,315 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:06,317 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:36:06,318 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:36:06,362 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:06,582 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:06,582 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:06,627 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:06,865 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:06,867 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:36:06,868 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:06,912 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:07,133 - INFO - Fire detected with confidence: 0.76
+2025-06-13 20:36:07,135 - INFO - Fire detected with confidence: 0.74
+2025-06-13 20:36:07,136 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:07,136 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:07,177 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:07,395 - INFO - Fire detected with confidence: 0.77
+2025-06-13 20:36:07,397 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:36:07,397 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:07,398 - INFO - Fire detected with confidence: 0.54
+2025-06-13 20:36:07,446 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:07,669 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:07,670 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:07,736 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:07,957 - INFO - Fire detected with confidence: 0.92
+2025-06-13 20:36:07,959 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:08,002 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:08,229 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:08,230 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:08,231 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:36:08,276 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:08,502 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:08,504 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:08,556 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:08,796 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:08,798 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:36:08,842 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:09,060 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:09,061 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:36:09,104 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:09,352 - INFO - Fire detected with confidence: 0.78
+2025-06-13 20:36:09,355 - INFO - Fire detected with confidence: 0.76
+2025-06-13 20:36:09,356 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:36:09,357 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:09,409 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:09,635 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:09,636 - INFO - Fire detected with confidence: 0.77
+2025-06-13 20:36:09,636 - INFO - Fire detected with confidence: 0.74
+2025-06-13 20:36:09,637 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:09,684 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:09,928 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:09,978 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:10,205 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:10,247 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:10,476 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:10,478 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:10,479 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:36:10,521 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:10,746 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:36:10,747 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:10,748 - INFO - Fire detected with confidence: 0.77
+2025-06-13 20:36:10,748 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:36:10,792 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:11,028 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:11,030 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:11,031 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:11,078 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:11,299 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:11,300 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:11,301 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:11,302 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:36:11,303 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:11,350 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:11,574 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:11,575 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:11,576 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:36:11,576 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:36:11,577 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:36:11,621 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:11,859 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:11,861 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:36:11,861 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:36:11,862 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:11,909 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:12,132 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:12,134 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:12,134 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:36:12,181 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:12,410 - INFO - Fire detected with confidence: 0.79
+2025-06-13 20:36:12,412 - INFO - Fire detected with confidence: 0.79
+2025-06-13 20:36:12,412 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:12,413 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:12,414 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:12,415 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:36:12,461 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:12,681 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:12,682 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:12,683 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:36:12,723 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:12,952 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:12,953 - INFO - Fire detected with confidence: 0.78
+2025-06-13 20:36:12,954 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:13,012 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:13,241 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:13,242 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:36:13,243 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:36:13,244 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:36:13,293 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:13,518 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:13,520 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:36:13,521 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:13,522 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:13,522 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:13,570 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:13,811 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:13,813 - INFO - Fire detected with confidence: 0.76
+2025-06-13 20:36:13,858 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:14,095 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:14,096 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:14,138 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:14,392 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:14,393 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:14,437 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:14,657 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:14,658 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:36:14,658 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:36:14,659 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:36:14,700 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:14,940 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:14,943 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:14,991 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:15,216 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:15,217 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:36:15,259 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:15,485 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:15,486 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:15,532 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:15,756 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:15,758 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:15,806 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:16,039 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:16,041 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:16,086 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:16,313 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:16,315 - INFO - Fire detected with confidence: 0.78
+2025-06-13 20:36:16,359 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:16,586 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:16,587 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:36:16,634 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:16,862 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:16,911 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:17,140 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:17,189 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:17,416 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:17,460 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:17,693 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:17,741 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:17,963 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:17,964 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:36:18,009 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:18,290 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:18,291 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:18,292 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:36:18,339 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:18,562 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:18,562 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:18,563 - INFO - Fire detected with confidence: 0.54
+2025-06-13 20:36:18,611 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:18,876 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:18,877 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:18,919 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:19,142 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:19,143 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:19,144 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:19,186 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:19,415 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:19,417 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:19,418 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:36:19,465 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:19,706 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:19,707 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:19,708 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:19,758 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:19,995 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:19,996 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:19,997 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:20,042 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:20,262 - INFO - Fire detected with confidence: 0.93
+2025-06-13 20:36:20,263 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:36:20,264 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:20,306 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:20,533 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:20,535 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:20,581 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:20,813 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:20,815 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:36:20,868 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:21,107 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:36:21,108 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:36:21,156 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:21,376 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:21,423 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:21,647 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:21,695 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:21,923 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:21,924 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:36:21,969 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:22,194 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:22,196 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:22,196 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:36:22,245 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:22,475 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:22,476 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:22,477 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:36:22,521 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:22,743 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:22,786 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:23,017 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:23,019 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:36:23,077 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:23,306 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:23,308 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:36:23,309 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:36:23,354 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:23,618 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:23,619 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:36:23,620 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:36:23,670 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:23,899 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:23,901 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:36:23,945 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:24,186 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:24,188 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:24,189 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:36:24,233 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:24,454 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:36:24,498 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:24,722 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:24,723 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:24,724 - INFO - Fire detected with confidence: 0.54
+2025-06-13 20:36:24,771 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:24,997 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:24,998 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:25,043 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:25,279 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:25,281 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:36:25,359 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:25,579 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:25,580 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:36:25,626 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:25,856 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:25,858 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:36:25,905 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:26,132 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:36:26,134 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:26,135 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:36:26,184 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:26,409 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:36:26,410 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:36:26,411 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:26,411 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:26,459 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:26,687 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:36:26,689 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:26,690 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:36:26,691 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:36:26,740 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:26,972 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:26,974 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:36:26,975 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:26,976 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:27,024 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:27,284 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:27,286 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:36:27,332 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:27,577 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:27,578 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:36:27,625 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:27,850 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:27,852 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:27,853 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:36:27,896 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:28,159 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:28,161 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:28,161 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:36:28,205 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:28,426 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:28,426 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:36:28,473 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:28,708 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:28,752 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:28,978 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:36:28,980 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:36:29,023 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:29,249 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:36:29,251 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:36:29,297 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:29,513 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:29,514 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:29,555 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:29,783 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:36:29,784 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:29,834 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:30,058 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:30,100 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:30,326 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:30,368 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:30,590 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:30,638 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:30,865 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:30,909 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:31,130 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:31,175 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:31,407 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:31,454 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:31,679 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:36:31,725 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:31,949 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:31,994 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:32,210 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:36:32,253 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:32,480 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:32,525 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:32,747 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:32,787 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:33,020 - INFO - Fire detected with confidence: 0.93
+2025-06-13 20:36:33,074 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:33,296 - INFO - Fire detected with confidence: 0.92
+2025-06-13 20:36:33,298 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:36:33,343 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:33,576 - INFO - Fire detected with confidence: 0.92
+2025-06-13 20:36:33,578 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:36:33,622 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:33,855 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:36:33,856 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:36:33,905 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:34,129 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:36:34,131 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:36:34,177 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:34,407 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:36:34,454 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:34,695 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:36:34,696 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:36:34,739 - ERROR - Email Error: Could not guess image MIME subtype
+2025-06-13 20:36:34,844 - INFO - Service stopped by user
+2025-06-13 20:36:34,855 - INFO - Service stopped
+2025-06-13 20:39:50,909 - INFO - Starting Fire Detection Service
+2025-06-13 20:39:53,265 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:39:53,329 - WARNING - Invalid image type: application/octet-stream
+2025-06-13 20:39:54,290 - ERROR - Email Error: 'ascii' codec can't encode characters in position 16-22: ordinal not in range(128)
+Traceback (most recent call last):
+  File "C:\Users\pipka\fire-detection-service\fire_detection_service.py", line 145, in send_email_alert
+    server.send_message(msg)
+    ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 973, in send_message
+    g.flatten(msg_copy, linesep='\r\n')
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 117, in flatten
+    self._write(msg)
+    ~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 182, in _write
+    self._dispatch(msg)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 219, in _dispatch
+    meth(msg)
+    ~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 286, in _handle_multipart
+    g.flatten(part, unixfrom=False, linesep=self._NL)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 117, in flatten
+    self._write(msg)
+    ~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 182, in _write
+    self._dispatch(msg)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 219, in _dispatch
+    meth(msg)
+    ~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 446, in _handle_text
+    super(BytesGenerator,self)._handle_text(msg)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 263, in _handle_text
+    self._write_lines(payload)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 156, in _write_lines
+    self.write(line)
+    ~~~~~~~~~~^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 420, in write
+    self._fp.write(s.encode('ascii', 'surrogateescape'))
+                   ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-22: ordinal not in range(128)
+2025-06-13 20:39:54,524 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:39:54,573 - WARNING - Invalid image type: application/octet-stream
+2025-06-13 20:39:55,469 - ERROR - Email Error: 'ascii' codec can't encode characters in position 16-22: ordinal not in range(128)
+Traceback (most recent call last):
+  File "C:\Users\pipka\fire-detection-service\fire_detection_service.py", line 145, in send_email_alert
+    server.send_message(msg)
+    ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\smtplib.py", line 973, in send_message
+    g.flatten(msg_copy, linesep='\r\n')
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 117, in flatten
+    self._write(msg)
+    ~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 182, in _write
+    self._dispatch(msg)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 219, in _dispatch
+    meth(msg)
+    ~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 286, in _handle_multipart
+    g.flatten(part, unixfrom=False, linesep=self._NL)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 117, in flatten
+    self._write(msg)
+    ~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 182, in _write
+    self._dispatch(msg)
+    ~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 219, in _dispatch
+    meth(msg)
+    ~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 446, in _handle_text
+    super(BytesGenerator,self)._handle_text(msg)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 263, in _handle_text
+    self._write_lines(payload)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 156, in _write_lines
+    self.write(line)
+    ~~~~~~~~~~^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\email\generator.py", line 420, in write
+    self._fp.write(s.encode('ascii', 'surrogateescape'))
+                   ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-22: ordinal not in range(128)
+2025-06-13 20:39:55,705 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:39:55,754 - WARNING - Invalid image type: application/octet-stream
+2025-06-13 20:39:56,200 - INFO - Service stopped by user
+2025-06-13 20:39:56,208 - INFO - Service stopped
+2025-06-13 20:42:29,345 - INFO - Starting Fire Detection Service
+2025-06-13 20:42:31,600 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:42:32,912 - INFO - Email alert sent successfully!
+2025-06-13 20:42:33,140 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:42:33,359 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:42:33,580 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:42:33,807 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:42:34,026 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:42:34,247 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:42:34,899 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:42:35,116 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:42:35,778 - INFO - Service stopped by user
+2025-06-13 20:42:35,790 - INFO - Service stopped
+2025-06-13 20:43:52,558 - INFO - Starting Fire Detection Service
+2025-06-13 20:43:54,925 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:43:56,177 - INFO - Email alert sent successfully!
+2025-06-13 20:43:56,414 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:43:56,648 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:43:56,873 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:43:57,095 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:43:57,317 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:43:57,538 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:43:58,218 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:43:58,498 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:44:00,096 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:44:00,327 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:44:01,935 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:44:09,968 - INFO - Service stopped by user
+2025-06-13 20:44:09,978 - INFO - Service stopped
+2025-06-13 20:46:41,277 - INFO - Starting Fire Detection Service
+2025-06-13 20:46:43,568 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:46:43,618 - ERROR - Image attachment error: Could not guess image MIME subtype
+2025-06-13 20:46:44,851 - INFO - Email with inline image sent successfully!
+2025-06-13 20:46:45,079 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:46:45,304 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:46:45,542 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:46:45,763 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:46:45,986 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:46:46,217 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:46:46,909 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:46:47,142 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:46:48,778 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:46:49,020 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:46:50,014 - INFO - Service stopped by user
+2025-06-13 20:46:50,026 - INFO - Service stopped
+2025-06-13 20:50:45,941 - INFO - Starting Fire Detection Service
+2025-06-13 20:50:48,160 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:50:50,072 - INFO - Email alert sent with image link: http://127.0.0.1:8000/api/events/131/image/
+2025-06-13 20:50:50,293 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:50:50,514 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:50:50,727 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:50:50,943 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:50:51,162 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:50:51,382 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:50:52,029 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:50:52,251 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:50:53,778 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:50:54,002 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:50:55,601 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:51:05,184 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:51:06,997 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:07,219 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:07,439 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:07,441 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:07,441 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:51:07,651 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:07,651 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:07,652 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:51:07,880 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:07,881 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:07,882 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:51:08,111 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:08,112 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:08,341 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:08,343 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:08,569 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:08,570 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:51:08,570 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:51:08,801 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:08,801 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:09,028 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:09,029 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:51:09,029 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:09,255 - INFO - Fire detected with confidence: 0.76
+2025-06-13 20:51:09,256 - INFO - Fire detected with confidence: 0.74
+2025-06-13 20:51:09,257 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:09,257 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:09,480 - INFO - Fire detected with confidence: 0.77
+2025-06-13 20:51:09,481 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:51:09,482 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:09,483 - INFO - Fire detected with confidence: 0.54
+2025-06-13 20:51:09,708 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:09,708 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:09,932 - INFO - Fire detected with confidence: 0.92
+2025-06-13 20:51:09,933 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:10,157 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:10,158 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:10,159 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:51:10,441 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:10,444 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:10,682 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:10,683 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:51:10,951 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:10,952 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:51:11,175 - INFO - Fire detected with confidence: 0.78
+2025-06-13 20:51:11,176 - INFO - Fire detected with confidence: 0.76
+2025-06-13 20:51:11,177 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:51:11,177 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:11,411 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:11,412 - INFO - Fire detected with confidence: 0.77
+2025-06-13 20:51:11,413 - INFO - Fire detected with confidence: 0.74
+2025-06-13 20:51:11,414 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:11,651 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:11,878 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:12,103 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:12,104 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:12,105 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:51:12,329 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:51:12,330 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:12,331 - INFO - Fire detected with confidence: 0.77
+2025-06-13 20:51:12,332 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:51:12,558 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:12,560 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:12,561 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:12,792 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:12,793 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:12,794 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:12,795 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:51:12,796 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:13,013 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:13,014 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:13,014 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:51:13,015 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:51:13,016 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:51:13,224 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:13,225 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:51:13,226 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:51:13,226 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:13,444 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:13,444 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:13,445 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:51:13,662 - INFO - Fire detected with confidence: 0.79
+2025-06-13 20:51:13,664 - INFO - Fire detected with confidence: 0.79
+2025-06-13 20:51:13,664 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:13,665 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:13,666 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:13,666 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:51:13,888 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:13,889 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:13,890 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:51:14,113 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:14,114 - INFO - Fire detected with confidence: 0.78
+2025-06-13 20:51:14,115 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:14,337 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:14,338 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:51:14,339 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:51:14,340 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:51:14,592 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:14,593 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:51:14,594 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:14,594 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:14,595 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:14,824 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:14,826 - INFO - Fire detected with confidence: 0.76
+2025-06-13 20:51:15,041 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:15,042 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:15,258 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:15,259 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:15,484 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:15,484 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:51:15,485 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:51:15,486 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:51:15,713 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:15,715 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:15,936 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:15,936 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:51:16,159 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:16,159 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:16,387 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:16,388 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:16,608 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:16,609 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:16,834 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:16,835 - INFO - Fire detected with confidence: 0.78
+2025-06-13 20:51:17,061 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:17,062 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:51:17,285 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:17,513 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:17,740 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:17,959 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:18,189 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:18,190 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:51:18,420 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:18,421 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:18,421 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:51:18,646 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:18,647 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:18,648 - INFO - Fire detected with confidence: 0.54
+2025-06-13 20:51:18,876 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:18,877 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:19,116 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:19,117 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:19,118 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:19,333 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:19,334 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:19,335 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:51:19,561 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:19,562 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:19,563 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:19,784 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:19,785 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:19,785 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:20,013 - INFO - Fire detected with confidence: 0.93
+2025-06-13 20:51:20,014 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:51:20,015 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:20,238 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:20,239 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:20,449 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:20,450 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:51:20,668 - INFO - Fire detected with confidence: 0.83
+2025-06-13 20:51:20,668 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:51:20,941 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:21,160 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:21,384 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:21,385 - INFO - Fire detected with confidence: 0.70
+2025-06-13 20:51:21,603 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:21,604 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:21,604 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:51:21,825 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:21,826 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:21,827 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:51:22,049 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:22,267 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:22,269 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:51:22,505 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:22,506 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:51:22,506 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:51:22,733 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:22,734 - INFO - Fire detected with confidence: 0.67
+2025-06-13 20:51:22,735 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:51:22,962 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:22,962 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:51:23,197 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:23,199 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:23,200 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:51:23,420 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:51:23,644 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:23,645 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:23,646 - INFO - Fire detected with confidence: 0.54
+2025-06-13 20:51:23,865 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:23,865 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:24,085 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:24,087 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:51:24,316 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:24,317 - INFO - Fire detected with confidence: 0.64
+2025-06-13 20:51:24,544 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:24,545 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:51:24,770 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:51:24,771 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:24,771 - INFO - Fire detected with confidence: 0.62
+2025-06-13 20:51:24,996 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:51:24,997 - INFO - Fire detected with confidence: 0.71
+2025-06-13 20:51:24,998 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:24,999 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:25,231 - INFO - Fire detected with confidence: 0.91
+2025-06-13 20:51:25,233 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:25,234 - INFO - Fire detected with confidence: 0.68
+2025-06-13 20:51:25,235 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:51:25,463 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:25,464 - INFO - Fire detected with confidence: 0.73
+2025-06-13 20:51:25,465 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:25,466 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:25,687 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:25,687 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:51:25,908 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:25,909 - INFO - Fire detected with confidence: 0.80
+2025-06-13 20:51:26,127 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:26,127 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:26,128 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:51:26,346 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:26,347 - INFO - Fire detected with confidence: 0.63
+2025-06-13 20:51:26,348 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:51:26,566 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:26,567 - INFO - Fire detected with confidence: 0.69
+2025-06-13 20:51:26,798 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:27,027 - INFO - Fire detected with confidence: 0.82
+2025-06-13 20:51:27,028 - INFO - Fire detected with confidence: 0.65
+2025-06-13 20:51:27,260 - INFO - Fire detected with confidence: 0.85
+2025-06-13 20:51:27,261 - INFO - Fire detected with confidence: 0.59
+2025-06-13 20:51:27,491 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:27,492 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:27,721 - INFO - Fire detected with confidence: 0.87
+2025-06-13 20:51:27,722 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:27,951 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:28,173 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:28,398 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:28,640 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:28,861 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:29,106 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:29,327 - INFO - Fire detected with confidence: 0.81
+2025-06-13 20:51:29,545 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:29,845 - INFO - Fire detected with confidence: 0.86
+2025-06-13 20:51:30,077 - INFO - Fire detected with confidence: 0.90
+2025-06-13 20:51:30,301 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:30,523 - INFO - Fire detected with confidence: 0.93
+2025-06-13 20:51:30,751 - INFO - Fire detected with confidence: 0.92
+2025-06-13 20:51:30,753 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:51:30,972 - INFO - Fire detected with confidence: 0.92
+2025-06-13 20:51:30,972 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:51:31,200 - INFO - Fire detected with confidence: 0.89
+2025-06-13 20:51:31,201 - INFO - Fire detected with confidence: 0.66
+2025-06-13 20:51:31,430 - INFO - Fire detected with confidence: 0.88
+2025-06-13 20:51:31,432 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:51:31,653 - INFO - Fire detected with confidence: 0.84
+2025-06-13 20:51:31,805 - INFO - Service stopped by user
+2025-06-13 20:51:31,816 - INFO - Service stopped
+2025-06-13 20:51:55,297 - INFO - Starting Fire Detection Service
+2025-06-13 20:51:57,508 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:51:59,551 - ERROR - Django API Error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/fire-detection/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000209B775AF90>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-06-13 20:51:59,774 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:52:01,804 - ERROR - Django API Error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/fire-detection/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000209B776CA50>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-06-13 20:52:02,030 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:52:04,065 - INFO - Service stopped by user
+2025-06-13 20:52:04,072 - INFO - Service stopped
+2025-06-13 20:52:15,388 - INFO - Starting Fire Detection Service
+2025-06-13 20:52:17,603 - INFO - Fire detected with confidence: 0.60
+2025-06-13 20:52:19,033 - INFO - Email alert sent with image link: http://127.0.0.1:8000/api/events/132/image/
+2025-06-13 20:52:19,258 - INFO - Fire detected with confidence: 0.56
+2025-06-13 20:52:19,479 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:52:19,696 - INFO - Fire detected with confidence: 0.52
+2025-06-13 20:52:19,913 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:52:20,134 - INFO - Fire detected with confidence: 0.55
+2025-06-13 20:52:20,346 - INFO - Fire detected with confidence: 0.61
+2025-06-13 20:52:21,013 - INFO - Fire detected with confidence: 0.58
+2025-06-13 20:52:21,243 - INFO - Fire detected with confidence: 0.57
+2025-06-13 20:52:22,845 - INFO - Fire detected with confidence: 0.51
+2025-06-13 20:52:23,068 - INFO - Fire detected with confidence: 0.50
+2025-06-13 20:52:24,679 - INFO - Fire detected with confidence: 0.53
+2025-06-13 20:52:25,442 - INFO - Service stopped by user
+2025-06-13 20:52:25,452 - INFO - Service stopped
+2025-06-13 21:07:45,694 - INFO - Starting Fire Detection Service
+2025-06-13 21:07:47,957 - INFO - Fire detected with confidence: 0.60
+2025-06-13 21:07:47,965 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:48,201 - INFO - Fire detected with confidence: 0.56
+2025-06-13 21:07:48,209 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:48,435 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:07:48,444 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:48,672 - INFO - Fire detected with confidence: 0.52
+2025-06-13 21:07:48,679 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:48,902 - INFO - Fire detected with confidence: 0.50
+2025-06-13 21:07:48,911 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:49,134 - INFO - Fire detected with confidence: 0.55
+2025-06-13 21:07:49,141 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:49,363 - INFO - Fire detected with confidence: 0.61
+2025-06-13 21:07:49,370 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:50,034 - INFO - Fire detected with confidence: 0.58
+2025-06-13 21:07:50,043 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:50,265 - INFO - Fire detected with confidence: 0.57
+2025-06-13 21:07:50,273 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:51,825 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:07:51,834 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:52,061 - INFO - Fire detected with confidence: 0.50
+2025-06-13 21:07:52,068 - ERROR - Django API Error: Invalid URL 'http:/83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:07:52,559 - INFO - Service stopped by user
+2025-06-13 21:07:52,569 - INFO - Service stopped
+2025-06-13 21:08:09,089 - INFO - Starting Fire Detection Service
+2025-06-13 21:08:11,348 - INFO - Fire detected with confidence: 0.60
+2025-06-13 21:08:11,356 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:11,579 - INFO - Fire detected with confidence: 0.56
+2025-06-13 21:08:11,586 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:11,808 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:08:11,816 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:12,039 - INFO - Fire detected with confidence: 0.52
+2025-06-13 21:08:12,045 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:12,267 - INFO - Fire detected with confidence: 0.50
+2025-06-13 21:08:12,275 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:12,531 - INFO - Fire detected with confidence: 0.55
+2025-06-13 21:08:12,538 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:12,751 - INFO - Fire detected with confidence: 0.61
+2025-06-13 21:08:12,758 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:13,413 - INFO - Fire detected with confidence: 0.58
+2025-06-13 21:08:13,420 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:13,639 - INFO - Fire detected with confidence: 0.57
+2025-06-13 21:08:13,646 - ERROR - Django API Error: Invalid URL 'http:83.222.9.213:9999/api/fire-detection/': No host supplied
+2025-06-13 21:08:14,571 - INFO - Service stopped by user
+2025-06-13 21:08:14,581 - INFO - Service stopped
+2025-06-13 21:08:45,899 - INFO - Starting Fire Detection Service
+2025-06-13 21:08:48,168 - INFO - Fire detected with confidence: 0.60
+2025-06-13 21:08:50,141 - INFO - Email alert sent with image link: http://83.222.9.213:9999/api/events/133/image/
+2025-06-13 21:08:50,366 - INFO - Fire detected with confidence: 0.56
+2025-06-13 21:08:50,587 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:08:50,808 - INFO - Fire detected with confidence: 0.52
+2025-06-13 21:08:51,021 - INFO - Fire detected with confidence: 0.50
+2025-06-13 21:08:51,241 - INFO - Fire detected with confidence: 0.55
+2025-06-13 21:08:51,463 - INFO - Fire detected with confidence: 0.61
+2025-06-13 21:08:52,137 - INFO - Fire detected with confidence: 0.58
+2025-06-13 21:08:52,352 - INFO - Fire detected with confidence: 0.57
+2025-06-13 21:08:53,940 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:08:54,174 - INFO - Fire detected with confidence: 0.50
+2025-06-13 21:08:55,769 - INFO - Fire detected with confidence: 0.53
+2025-06-13 21:09:05,135 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:09:06,920 - INFO - Fire detected with confidence: 0.68
+2025-06-13 21:09:07,139 - INFO - Fire detected with confidence: 0.63
+2025-06-13 21:09:07,365 - INFO - Fire detected with confidence: 0.88
+2025-06-13 21:09:07,367 - INFO - Fire detected with confidence: 0.88
+2025-06-13 21:09:07,367 - INFO - Fire detected with confidence: 0.51
+2025-06-13 21:09:07,590 - INFO - Fire detected with confidence: 0.87
+2025-06-13 21:09:07,591 - INFO - Fire detected with confidence: 0.86
+2025-06-13 21:09:07,592 - INFO - Fire detected with confidence: 0.69
+2025-06-13 21:09:07,812 - INFO - Fire detected with confidence: 0.86
+2025-06-13 21:09:07,813 - INFO - Fire detected with confidence: 0.70
+2025-06-13 21:09:07,814 - INFO - Fire detected with confidence: 0.67
+2025-06-13 21:09:08,035 - INFO - Fire detected with confidence: 0.84
+2025-06-13 21:09:08,036 - INFO - Fire detected with confidence: 0.83
+2025-06-13 21:09:08,258 - INFO - Fire detected with confidence: 0.84
+2025-06-13 21:09:08,259 - INFO - Fire detected with confidence: 0.83
+2025-06-13 21:09:08,485 - INFO - Fire detected with confidence: 0.86
+2025-06-13 21:09:08,486 - INFO - Fire detected with confidence: 0.82
+2025-06-13 21:09:08,487 - INFO - Fire detected with confidence: 0.53
+2025-06-13 21:09:08,707 - INFO - Fire detected with confidence: 0.81
+2025-06-13 21:09:08,708 - INFO - Fire detected with confidence: 0.59
+2025-06-13 21:09:08,930 - INFO - Fire detected with confidence: 0.81
+2025-06-13 21:09:08,931 - INFO - Fire detected with confidence: 0.57
+2025-06-13 21:09:08,931 - INFO - Fire detected with confidence: 0.55
+2025-06-13 21:09:09,176 - INFO - Fire detected with confidence: 0.76
+2025-06-13 21:09:09,178 - INFO - Fire detected with confidence: 0.74
+2025-06-13 21:09:09,178 - INFO - Fire detected with confidence: 0.63
+2025-06-13 21:09:09,179 - INFO - Fire detected with confidence: 0.55
+2025-06-13 21:09:09,407 - INFO - Fire detected with confidence: 0.77
+2025-06-13 21:09:09,407 - INFO - Fire detected with confidence: 0.73
+2025-06-13 21:09:09,408 - INFO - Fire detected with confidence: 0.59
+2025-06-13 21:09:09,409 - INFO - Fire detected with confidence: 0.54
+2025-06-13 21:09:09,634 - INFO - Fire detected with confidence: 0.89
+2025-06-13 21:09:09,634 - INFO - Fire detected with confidence: 0.55
+2025-06-13 21:09:09,852 - INFO - Fire detected with confidence: 0.92
+2025-06-13 21:09:09,852 - INFO - Fire detected with confidence: 0.63
+2025-06-13 21:09:10,073 - INFO - Fire detected with confidence: 0.88
+2025-06-13 21:09:10,073 - INFO - Fire detected with confidence: 0.59
+2025-06-13 21:09:10,074 - INFO - Fire detected with confidence: 0.52
+2025-06-13 21:09:10,292 - INFO - Fire detected with confidence: 0.88
+2025-06-13 21:09:10,293 - INFO - Fire detected with confidence: 0.63
+2025-06-13 21:09:10,514 - INFO - Fire detected with confidence: 0.88
+2025-06-13 21:09:10,515 - INFO - Fire detected with confidence: 0.69
+2025-06-13 21:09:10,749 - INFO - Fire detected with confidence: 0.87
+2025-06-13 21:09:10,750 - INFO - Fire detected with confidence: 0.69
+2025-06-13 21:09:10,974 - INFO - Fire detected with confidence: 0.78
+2025-06-13 21:09:10,975 - INFO - Fire detected with confidence: 0.76
+2025-06-13 21:09:10,976 - INFO - Fire detected with confidence: 0.67
+2025-06-13 21:09:10,977 - INFO - Fire detected with confidence: 0.65
+2025-06-13 21:09:11,204 - INFO - Fire detected with confidence: 0.81
+2025-06-13 21:09:11,205 - INFO - Fire detected with confidence: 0.77
+2025-06-13 21:09:11,206 - INFO - Fire detected with confidence: 0.74
+2025-06-13 21:09:11,207 - INFO - Fire detected with confidence: 0.68
+2025-06-13 21:09:11,443 - INFO - Fire detected with confidence: 0.87
+2025-06-13 21:09:11,665 - INFO - Fire detected with confidence: 0.87
+2025-06-13 21:09:11,885 - INFO - Fire detected with confidence: 0.85
+2025-06-13 21:09:11,886 - INFO - Fire detected with confidence: 0.85
+2025-06-13 21:09:11,886 - INFO - Fire detected with confidence: 0.64
+2025-06-13 21:09:12,103 - INFO - Fire detected with confidence: 0.82
+2025-06-13 21:09:12,104 - INFO - Fire detected with confidence: 0.81
+2025-06-13 21:09:12,105 - INFO - Fire detected with confidence: 0.77
+2025-06-13 21:09:12,105 - INFO - Fire detected with confidence: 0.61
+2025-06-13 21:09:12,325 - INFO - Fire detected with confidence: 0.86
+2025-06-13 21:09:12,327 - INFO - Fire detected with confidence: 0.85
+2025-06-13 21:09:12,327 - INFO - Fire detected with confidence: 0.71
+2025-06-13 21:09:12,548 - INFO - Fire detected with confidence: 0.84
+2025-06-13 21:09:12,549 - INFO - Fire detected with confidence: 0.84
+2025-06-13 21:09:12,550 - INFO - Fire detected with confidence: 0.71
+2025-06-13 21:09:12,551 - INFO - Fire detected with confidence: 0.61
+2025-06-13 21:09:12,552 - INFO - Fire detected with confidence: 0.59
+2025-06-13 21:09:12,770 - INFO - Fire detected with confidence: 0.84
+2025-06-13 21:09:12,771 - INFO - Fire detected with confidence: 0.84
+2025-06-13 21:09:12,771 - INFO - Fire detected with confidence: 0.73
+2025-06-13 21:09:12,772 - INFO - Fire detected with confidence: 0.61
+2025-06-13 21:09:12,772 - INFO - Fire detected with confidence: 0.53
+2025-06-13 21:09:12,985 - INFO - Fire detected with confidence: 0.83
+2025-06-13 21:09:12,985 - INFO - Fire detected with confidence: 0.80
+2025-06-13 21:09:12,986 - INFO - Fire detected with confidence: 0.80
+2025-06-13 21:09:12,987 - INFO - Fire detected with confidence: 0.59
+2025-06-13 21:09:13,174 - INFO - Service stopped by user
+2025-06-13 21:09:13,184 - INFO - Service stopped
